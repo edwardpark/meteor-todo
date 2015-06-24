@@ -8,4 +8,6 @@ if (Meteor.isClient) {
       { text: "This is task 3" }
     ]
   });
+
+
 }
